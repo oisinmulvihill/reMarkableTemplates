@@ -1,20 +1,24 @@
 reMarkableTemplates
 ===================
 
-
+My experimental reMarkable template generation using Python and Pillow.
 
 Hanzi Grid
 ----------
 
+I'm using this to practice Chinese character writting. After some trial and
+error i came up with a template that allows me to keep open the menu, without
+blocking writing area. I can then use undo and eraser as I write.
+
 Download link:
 
- -
+ - https://raw.githubusercontent.com/oisinmulvihill/reMarkableTemplates/master/static/output/hanzi_grid.png
 
 This is my template image in use:
 
-.. image:: static/images/template_in_use.jpg
+.. image:: https://raw.githubusercontent.com/oisinmulvihill/reMarkableTemplates/master/static/image/template_in_use.jpg
    :width: 512px
-   :align: right
+   :align: center
 
 To generate this yourself you'll need to follow the Python set up instructions.
 Then you can run the following:
