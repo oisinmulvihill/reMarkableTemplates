@@ -33,7 +33,7 @@ Then you can run the following:
 	oisin@tarsis [reMarkableTemplates]
 	$
 
-Success!
+Success! Now look in static/output to see the updated hanzi_grid.png
 
 
 Python Set Up
