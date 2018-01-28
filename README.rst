@@ -8,7 +8,7 @@ Hanzi Grid
 
 I'm using this to practice Chinese character writting. After some trial and
 error i came up with a template that allows me to keep open the menu, without
-blocking writing area. I can then use undo and eraser as I write.
+blocking the writing area. I can then use undo and eraser as I write.
 
 Download link:
 
